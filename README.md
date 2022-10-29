@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/blueromans](https://github.com/blueromans)
 - 💬 Ask me about **Web Development, React, React Native, Context Api, Python, Php, PostgreSql, NodeJs**
 - 📫 How to reach me **blueromans@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/yasarozyurt/](https://www.linkedin.com/in/yasarozyurt/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yasarozyurt](https://www.linkedin.com/in/yasarozyurt)
 
 **Languages and Library**  
 
