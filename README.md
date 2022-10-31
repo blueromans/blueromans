@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=blueromans&show_icons=true" />
 
-- 🔭 I’m currently working on [YD Yazılım](http://ydyazilim.com.com)
+- 🔭 I’m currently working on [YD Yazılım](http://www.ydyazilim.com)
 - 🌱 I’m currently learning **TensorFlow**
 - 👨‍💻 All of my projects are available at [https://github.com/blueromans](https://github.com/blueromans)
 - 💬 Ask me about **Web Development, React, React Native, Context Api, Python, Php, PostgreSql, NodeJs**
