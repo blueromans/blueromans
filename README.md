@@ -26,4 +26,7 @@
 <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Php-DD0031?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-3178c6?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white" />
+<img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-654FF0?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
