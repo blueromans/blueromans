@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-654FF0?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgre-323330?style=for-the-badge&logo=postgresql&logoColor=f1e05a" />
+<img src="https://img.shields.io/badge/Postgre-323330?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMq-F05138?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-3178c6?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white" />
