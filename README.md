@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/NextJs-323330?style=for-the-badge&logo=nextdotjs&logoColor=f1e05a" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Php-DD0031?style=for-the-badge&logo=php&logoColor=white" />
@@ -29,4 +30,9 @@
 <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-654FF0?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgre-323330?style=for-the-badge&logo=postgresql&logoColor=f1e05a" />
+<img src="https://img.shields.io/badge/RabbitMq-F05138?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-3178c6?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastApi-0ca6ab?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
